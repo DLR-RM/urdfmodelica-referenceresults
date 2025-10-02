@@ -14,7 +14,7 @@ The results of these simulations are saved in this repository. Following the sam
 - `simulate_passed.log` is a the log file (commonly `dslog.txt`) returned by `dymosim`.
 - `ExampleName.csv` contains the values of the variables listed in the corresponding `comparisonSignals.txt` for the example as comma separated values.
 
-The first set of reference resuts was created in September 2025 on a Windows 11 machine with Dymola 2024x.
+The first set of reference results for library version 0.3.3 was created in September 2025 on a Windows 11 machine with Dymola 2024x.
 
 ## Contact
 Antoine Pignède [@afxp](https://github.com/afxp)<br>
