@@ -1,0 +1,270 @@
+Log-file of program ./dymosim
+(generated: Tue Sep 30 11:33:37 2025)
+
+dymosim started
+... "URDFModelica.Examples_Visualization2.Physics_Wheels.PhysicsTest" simulating
+... "dsin.txt" loading (dymosim input file)
+... "PhysicsTest.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+Warning: The following was detected at time: 0.01
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.04
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.04
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.06
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.07000000000000001
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.08
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.09
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.11
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.12
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.14
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.16
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.17
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.2
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.21
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.3
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.31
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.3287695943633046
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.34
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.34
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.37
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.37
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.39
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.39
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.42
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.42
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.45
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.45
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.48
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.48
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.51
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.51
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.53
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.55
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.5695461475538319
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.5716414524232616
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.6066205546970884
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.6149908933758232
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.63
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.64
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.6526964885949784
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.6577068302754548
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.67
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.7000000000000001
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.71
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.75
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.8300000000000001
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.84
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.86
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.88
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.89
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.9
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.91
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.93
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.9400000000000001
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.9500000000000001
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 0.98
+  Joint position over low limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitLow.y
+
+Warning: The following was detected at time: 1.001037268207116
+  Joint position over high limit
+  Failed condition:  not physicsRun.physics.gripper_extension.posLimitHigh.y
+
+Warning: The following was detected at time: 11.49644329592426
+  Joint position over high limit
+  Failed condition:  not physicsRun.physics.left_gripper_joint.posLimitHigh.y
+
+Warning: The following was detected at time: 11.49644329698177
+  Joint position over high limit
+  Failed condition:  not physicsRun.physics.right_gripper_joint.posLimitHigh.y
+
+
+Integration terminated successfully at T = 25
+  WARNING: You have many time events. This is probably due to fast sampling.
+  Enable logging of event in Simulation/Setup/Debug/Events during simulation
+   CPU-time for integration                : 6.96 seconds
+   CPU-time for one grid interval          : 6.96 milliseconds
+   CPU-time for initialization             : 0.033 seconds
+   Number of result points                 : 3258
+   Number of grid points                   : 1001
+   Number of accepted steps                : 3243
+   Number of f-evaluations (dynamics)      : 5046
+   Number of crossing function evaluations : 6753
+   Number of Jacobian-evaluations          : 1884
+   Number of model time events             : 2500
+   Number of input time events             : 0
+   Number of state events                  : 85
+   Number of step events                   : 0
+   Minimum integration stepsize            : 3.24e-09
+   Maximum integration stepsize            : 0.765
+   Maximum integration order               : 5
+Calling terminal section
+... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of URDFModelica.Examples_Visualization2.Physics_Wheels.PhysicsTest

@@ -1,0 +1,30 @@
+[ResultCreationLog]
+modelName="URDFModelica.Examples.Ur10e_robot.Ur10e_robotTest"
+
+// Test info
+generationTool="Dymola Version 2024x, 2023-10-06"
+generationDateAndTime="Tue Sep 30 11:32:54 2025"
+libraryVersion="0.3.2"
+libraryBuild=
+usedLibraryURL="https://github.com/DLR-RM/urdfmodelica.git"
+usedLibraryRevision=15b9733e3f4f71329f158063155fd9301214b27b
+
+// Experiment settings (standardized annotation)
+StartTime=0
+StopTime=25
+Interval=0.025
+Tolerance=1e-07
+
+// Experiment settings (tool specific)
+// The following lines can be used as mos-script in Dymola
+Evaluate := false;
+OutputCPUtime := false;
+translateModel("URDFModelica.Examples.Ur10e_robot.Ur10e_robotTest");
+simulateModel(
+  problem="URDFModelica.Examples.Ur10e_robot.Ur10e_robotTest",
+  startTime=0,
+  stopTime=25,
+  outputInterval=0.025,
+  method="Dassl",
+  tolerance=1e-07,
+  resultFile="Ur10e_robotTest");

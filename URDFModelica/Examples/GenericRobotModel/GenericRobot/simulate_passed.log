@@ -1,0 +1,32 @@
+Log-file of program ./dymosim
+(generated: Tue Sep 30 11:31:40 2025)
+
+dymosim started
+... "URDFModelica.Examples.GenericRobotModel.GenericRobot" simulating
+... "dsin.txt" loading (dymosim input file)
+... "GenericRobot.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
+Integration terminated successfully at T = 25
+   CPU-time for integration                : 0.052 seconds
+   CPU-time for one grid interval          : 0.052 milliseconds
+   CPU-time for initialization             : 0 seconds
+   Number of result points                 : 1005
+   Number of grid points                   : 1001
+   Number of accepted steps                : 72
+   Number of f-evaluations (dynamics)      : 72
+   Number of crossing function evaluations : 1072
+   Number of Jacobian-evaluations          : 66
+   Number of model time events             : 3
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 2.5e-05
+   Maximum integration stepsize            : 3.45
+   Maximum integration order               : 1
+Calling terminal section
+... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of URDFModelica.Examples.GenericRobotModel.GenericRobot

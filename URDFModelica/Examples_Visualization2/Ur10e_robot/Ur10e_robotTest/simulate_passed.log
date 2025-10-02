@@ -1,0 +1,34 @@
+Log-file of program ./dymosim
+(generated: Tue Sep 30 11:34:22 2025)
+
+dymosim started
+... "URDFModelica.Examples_Visualization2.Ur10e_robot.Ur10e_robotTest" simulating
+... "dsin.txt" loading (dymosim input file)
+... "Ur10e_robotTest.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
+Integration terminated successfully at T = 25
+  WARNING: You have many time events. This is probably due to fast sampling.
+  Enable logging of event in Simulation/Setup/Debug/Events during simulation
+   CPU-time for integration                : 1.65 seconds
+   CPU-time for one grid interval          : 1.65 milliseconds
+   CPU-time for initialization             : 0.003 seconds
+   Number of result points                 : 3005
+   Number of grid points                   : 1001
+   Number of accepted steps                : 16252
+   Number of f-evaluations (dynamics)      : 64712
+   Number of crossing function evaluations : 19252
+   Number of Jacobian-evaluations          : 32310
+   Number of model time events             : 2500
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.05e-06
+   Maximum integration stepsize            : 5.26
+   Maximum integration order               : 4
+Calling terminal section
+... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of URDFModelica.Examples_Visualization2.Ur10e_robot.Ur10e_robotTest
