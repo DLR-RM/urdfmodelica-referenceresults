@@ -11,7 +11,7 @@ Each example, i.e. model with `experiment` annotation, in the library (the main 
 
 The results of these simulations are saved in this repository. Following the same structure than the library, there is one folder for each example in this repository that contains three files that define the reference results.
 - `creation.txt` gives some information about how the results were generated, e.g. Modelica version, library version, integration algorithm, start and stop time, ...
-- `simulate_passed.log` is a the log file (commonly `dslog.txt`) returned by `dymosim`
+- `simulate_passed.log` is a the log file (commonly `dslog.txt`) returned by `dymosim`.
 - `ExampleName.csv` contains the values of the variables listed in the corresponding `comparisonSignals.txt` for the example as comma separated values.
 
 The first set of reference resuts was created in September 2025 on a Windows 11 machine with Dymola 2024x.
